@@ -9,7 +9,16 @@
 </picture>
   </div> -->
 
- <div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanessaCampoe/VanessaCampoe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanessaCampoe/VanessaCampoe/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/VanessaCampoe/VanessaCampoe/output/pacman-contribution-graph.svg">
+</picture>
+
+_Gerado com [AndreRuperto/svg‑pacman‑contributions](https://github.com/AndreRuperto/svg-pacman-contributions)_
+
+
+ <!-- <div align="center">
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanessaCampoe/VanessaCampoe/output/pacman-contribution-graph-dark.svg">
@@ -35,7 +44,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VSRohod/VSRohod/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VSRohod/VSRohod/output/pacman-contribution-graph.svg">
 </picture>
-  </div>
+  </div> --> 
 
 <!--
 **VanessaCampoe/VanessaCampoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
