@@ -26,7 +26,7 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/VanessaCampoe/VanessaCampoe/output/pacman-contribution-graph.svg">
 </picture>
 
-_Gerado com [AndreRuperto/svg‑pacman‑contributions](https://github.com/AndreRuperto/svg-pacman-contributions)_
+
 
 
  <!-- <div align="center">
