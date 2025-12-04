@@ -48,6 +48,10 @@
     <img width="12"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzw5Y1ycp8HjNXA6oBLyOMq5gBVdPr7JjlQ&s" height="40" alt="ifb"/>
     <img width="12"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FsppoqXjWQgYnFqcUJxqdBRd30pj2KyJAQwdWtZIyQ&s" height="40" alt="catolica"/>
+    <img width="12"/>
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/cisco_systems-logo.png" height="40" alt="cisco"/>
+    <img width="12"/>
     
     
   
