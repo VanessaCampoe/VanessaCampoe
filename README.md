@@ -41,15 +41,20 @@
 
   <div align="center" style:"display : inline-block">
     <img src="https://www.imagemhost.com.br/images/2024/11/22/Logo-novo-SENAI_-sem-slogan_755X325.png" height="40" alt="senai logo"/>
+    <img width="12"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FsppoqXjWQgYnFqcUJxqdBRd30pj2KyJAQwdWtZIyQ&s" height="40" alt="catolica"/>
+    <img width="12"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png" height="40" alt="SENAC"/>
     <img width="12"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzw5Y1ycp8HjNXA6oBLyOMq5gBVdPr7JjlQ&s" height="40" alt="ifb"/>
     <img width="12"/>
-    <img src="https://brandlogos.net/wp-content/uploads/2021/11/cisco_systems-logo.png" height="40" alt="cisco"/>
+    <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" height="40" alt="cisco"/>
     <img width="12"/>
     <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
     <img width="12"/>
     <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="Udemy logo"/>
+    <img width="12"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PaJpXipP7qv4uJ_TAb1p2MGjnfWtadcZ5A&s" height="40" alt="Udemy logo"/>
     <img width="12"/>
     
     
