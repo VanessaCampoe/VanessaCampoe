@@ -41,17 +41,17 @@
 
   <div align="center" style:"display : inline-block">
     <img src="https://www.imagemhost.com.br/images/2024/11/22/Logo-novo-SENAI_-sem-slogan_755X325.png" height="40" alt="senai logo"/>
-    <img width="12"/>
-    <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
-    <img width="12"/>
-    <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="aws logo"/>
-    <img width="12"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzw5Y1ycp8HjNXA6oBLyOMq5gBVdPr7JjlQ&s" height="40" alt="ifb"/>
-    <img width="12"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FsppoqXjWQgYnFqcUJxqdBRd30pj2KyJAQwdWtZIyQ&s" height="40" alt="catolica"/>
     <img width="12"/>
     <img src="https://brandlogos.net/wp-content/uploads/2021/11/cisco_systems-logo.png" height="40" alt="cisco"/>
     <img width="12"/>
+    <img src="https://josecastillolema.github.io/assets/images/posts/2020-07-09-aws-academy/01.png" height="30" alt="aws logo"/>
+    <img width="12"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzw5Y1ycp8HjNXA6oBLyOMq5gBVdPr7JjlQ&s" height="40" alt="ifb"/>
+    <img width="12"/>
+    <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="Udemy logo"/>
+    <img width="12"/>
+    
     
     
   
