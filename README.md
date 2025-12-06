@@ -54,7 +54,7 @@
     <img width="12"/>
     <img src="https://freelogopng.com/images/all_img/1683006778udemy-logo-png.png" height="30" alt="Udemy logo"/>
     <img width="12"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PaJpXipP7qv4uJ_TAb1p2MGjnfWtadcZ5A&s" height="40" alt="Udemy logo"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PaJpXipP7qv4uJ_TAb1p2MGjnfWtadcZ5A&s" height="45" alt="Red hat logo"/>
     <img width="12"/>
     
     
@@ -75,13 +75,13 @@
 
 <div align="center" style:"display : inline-block">
   <h3>TECNOLOGIAS ⚙</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="60" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" alt="java logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
@@ -90,12 +90,12 @@
   <img width="12"/>
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="50" alt="debian logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" height="40" alt="postgresql logo"  />
   <img width="12" />
