@@ -101,10 +101,20 @@
   <img width="12" />
   
 </div>
+<hr>
+<h3 align="center">🏅 Conquista Microsoft Learn</h3>
+<div align="center">
+  
 
+<img src="https://learn.microsoft.com/api/achievements/share/pt-br/vanessarafaellacampoe-7875/WVMHSGAN?sharingId=D7A14EDB6A866D53" alt="Badge: Introdução aos conceitos de IA" width="400"/>
+
+</div>
 
 
 <hr>
+
+
+
 
 <div align="center">
   <h3>ESTATÍSTICAS 📈</h3>
