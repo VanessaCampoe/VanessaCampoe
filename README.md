@@ -106,7 +106,7 @@
 <div align="center">
   
 
-<img src="https://learn.microsoft.com/api/achievements/share/pt-br/vanessarafaellacampoe-7875/WVMHSGAN?sharingId=D7A14EDB6A866D53" alt="Badge: Introdução aos conceitos de IA" width="400"/>
+<img src="https://learn.microsoft.com/pt-br/training/achievements/get-started-ai-fundamentals.svg" alt="Badge: Introdução aos conceitos de IA" width="50"/>
 
 </div>
 
