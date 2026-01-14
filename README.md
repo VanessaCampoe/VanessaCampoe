@@ -99,22 +99,30 @@
   <img width="12" />
   <img src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" height="40" alt="postgresql logo"  />
   <img width="12" />
+
+  <hr>
   
-</div>
-<hr>
-<h3 align="center">🏅 Conquista Microsoft Learn</h3>
-<div align="center">
-  
+### 🏅 Conquista Microsoft Learn
 
-<img src="https://learn.microsoft.com/pt-br/training/achievements/get-started-ai-fundamentals.svg" alt="Badge: Introdução aos conceitos de IA" width="50"/>
-
-</div>
-
-
+<p align="center">
+  <img src="https://learn.microsoft.com/pt-br/training/achievements/get-started-ai-fundamentals.svg" alt="Badge: Introdução aos conceitos de IA" width="100"/>
+</p>
 <hr>
 
+### 🏅 Selo Red Hat 
+
+<p align="center">
+  <a href="https://www.credly.com/badges/dcb90b6a-d900-4ae5-83e7-81c0b6e5fcb7/public_url" target="_blank">
+    <img src="assets/badges/redhat-rh124.png" alt="Selo Red Hat" width="140">
+  </a>
+</p>
 
 
+
+
+
+
+<hr>
  <!--
 <div align="center">
   <h3>ESTATÍSTICAS 📈</h3>
@@ -122,18 +130,19 @@
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatswrongedu&layout=compact&langs_count=7&theme=react"/>
 </div>
 -->
-<hr> 
+
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
-
+<!--
 ## 👨‍💻 Meu status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmachadoribeiro&theme=dark&hide=jupyter%20notebook,portugol&locale=pt-br&langs_count=7&hide_border=true)](https://github.com/vanessacampoe/github-readme-stats)
 
-![alexmachadoribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacampoe&show_icons=true&theme=dark&locale=pt-br&hide_border=true)
+![vanessacampoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacampoe&show_icons=true&theme=dark&locale=pt-br&hide_border=true)
+-->
  <!-- <div align="center">
 
   <picture>
