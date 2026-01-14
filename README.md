@@ -105,7 +105,7 @@
 ### 🏅 Conquista Microsoft Learn
 
 <p align="center">
-  <img src="https://learn.microsoft.com/pt-br/training/achievements/get-started-ai-fundamentals.svg" alt="Badge: Introdução aos conceitos de IA" width="100"/>
+  <img src="https://learn.microsoft.com/pt-br/training/achievements/get-started-ai-fundamentals.svg" alt="Badge: Introdução aos conceitos de IA" width="90"/>
 </p>
 <hr>
 
@@ -113,7 +113,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/dcb90b6a-d900-4ae5-83e7-81c0b6e5fcb7/public_url" target="_blank">
-    <img src="assets/badges/redhat-rh124.png" alt="Selo Red Hat" width="140">
+    <img src="redhat.png" alt="Selo Red Hat" width="90">
   </a>
 </p>
 
